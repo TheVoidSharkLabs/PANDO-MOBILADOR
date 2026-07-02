@@ -1,5 +1,5 @@
 {
-  "active": false,
-  "message": "Pando Mobilador esta em manutencao. Tente novamente mais tarde.",
+  "active": true,
+  "message": "Pando Mobilador esta funcionando normalmente.",
   "version": "1.0"
 }
